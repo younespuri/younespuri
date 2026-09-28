@@ -60,6 +60,6 @@ I build web, mobile and AI-powered products end to end, from the first idea to a
 
 ### Let's talk
 
-[LinkedIn](https://www.linkedin.com/in/younespuri) · [Portfolio](https://personal-site-ashy-eight-10.vercel.app/) · open to freelance projects and remote roles
+[LinkedIn](https://www.linkedin.com/in/younespuri) · [Momentum](https://momentumapp.ir) · open to freelance projects and remote roles
 
 <sub>Most of my product work lives in private repositories.</sub>
