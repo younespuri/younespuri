@@ -49,6 +49,14 @@ I build web, mobile and AI-powered products end to end, from the first idea to a
       <sub>Python · scikit-learn · pandas · Matplotlib · Jupyter</sub></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://younespuri.github.io/zaban-demo/"><img src="assets/zaban.jpg" width="50%" alt="Zaban: learn English in a game, built for Persian speakers"></a>
+      <p><b><a href="https://younespuri.github.io/zaban-demo/">Zaban</a></b> · <a href="https://younespuri.github.io/zaban-demo/">live demo</a><br>
+      A Duolingo-style English course for Persian speakers: eight skills, spaced review, XP and weekly leagues, fully right-to-left. 102 automated tests.<br>
+      <sub>React · Vite · Tailwind · Vitest</sub></p>
+    </td>
+  </tr>
 </table>
 
 ### Toolbox
